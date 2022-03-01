@@ -40,6 +40,9 @@ As we can see and infer, is that Rural area Averages are the highest given the l
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/90523595/156264219-3df2b6d9-5a94-4fd5-8461-ce11069a3022.png)
+
 This exploratory analysis allows us to provide insight for strategy and development for Pyber:
 - Urban areas have more drivers, usage, and lowest fares by average.
 - Majority of the ride share services are done in Urban Areas.
